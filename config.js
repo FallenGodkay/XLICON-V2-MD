@@ -8,16 +8,16 @@ import axios from 'axios'
 
 global.owner = [
   ['27687219103', 'Robert⁩', true], 
-
+['27740404052', 'Lola⁩', true],
   ['27624751341', '「Ø₮Ⱡ」Legend', true],
   
 ] //Number of owners
 
 //global.pairingNumber = "" //put your bot number here
 
-global.mods = ['923184070915', '94789481495', '923184474176','233531910067','27624751341'] 
-global.prems = ['923184070915','233208179431','94789481495', '918360234087','27624751341']
-global.allowed = ['27687219103', '233208179431', '94789481495', '918360234087','27624751341']
+global.mods = ['923184070915', '94789481495', '923184474176','233531910067','27624751341,27740404052'] 
+global.prems = ['923184070915','233208179431','94789481495', '918360234087','27624751341,27740404052']
+global.allowed = ['27687219103', '233208179431', '94789481495', '918360234087','27624751341,27740404052']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -55,7 +55,7 @@ global.APIKeys = { // APIKey Here
 global.botname = '「Ø₮Ⱡ」ØɄ₮Ⱡ₳₩Ƶ'
 global.premium = 'true'
 global.packname = '「Ø₮Ⱡ」Legend' 
-global.author = 'Kay💯' 
+global.author = 'Lola💯' 
 global.menuvid = 'https://telegra.ph/file/c6b8bab498e96c716ca7f.mp4'
 global.igfg = '▢✓ Follow My channel\nhttps://whatsapp.com/channel/0029VaUfOhqJkK7BJWVAYj1O\n' 
 global.dygp = 'https://whatsapp.com/channel/0029VaUfOhqJkK7BJWVAYj1O'
